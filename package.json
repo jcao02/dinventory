@@ -8,7 +8,11 @@
     "truffle": "^5.0.6"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "truffle test",
+    "develop": "truffle develop",
+    "console": "truffle console",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate"
   },
   "repository": {
     "type": "git",
