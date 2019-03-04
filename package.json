@@ -1,0 +1,30 @@
+{
+  "name": "dinventory",
+  "version": "1.0.0",
+  "description": "Inventory DApp.",
+  "main": "truffle-config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "truffle": "^5.0.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcao02/dinventory.git"
+  },
+  "keywords": [
+    "dapp",
+    "loom",
+    "truffle",
+    "react",
+    "drizzle"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcao02/dinventory/issues"
+  },
+  "homepage": "https://github.com/jcao02/dinventory#readme"
+}
