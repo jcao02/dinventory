@@ -3,3 +3,6 @@ priv_key
 
 # NPM modules.
 node_modules
+
+# Truffle build directory.
+build
