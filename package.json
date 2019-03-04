@@ -5,14 +5,16 @@
   "main": "truffle-config.js",
   "dependencies": {},
   "devDependencies": {
+    "ganache-cli": "^6.4.1",
     "truffle": "^5.0.6"
   },
   "scripts": {
     "test": "truffle test",
-    "develop": "truffle develop",
-    "console": "truffle console",
-    "compile": "truffle compile",
-    "migrate": "truffle migrate"
+    "ganache-cli": "ganache-cli",
+    "truffle-develop": "truffle develop",
+    "truffle-console": "truffle console",
+    "truffle-compile": "truffle compile",
+    "truffle-migrate": "truffle migrate"
   },
   "repository": {
     "type": "git",

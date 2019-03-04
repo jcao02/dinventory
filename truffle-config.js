@@ -53,7 +53,7 @@ module.exports = {
     // Instructions on how to use Ganache: https://truffleframework.com/docs/truffle/quickstart#alternative-migrating-with-ganache.
     development: {
       host: '127.0.0.1',
-      port: 7545,
+      port: 8545,
       network_id: '*'
     }
 
