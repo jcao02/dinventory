@@ -1,0 +1,8 @@
+# Loom network DApp private key (used for deploys).
+priv_key
+
+# NPM modules.
+node_modules
+
+# Truffle build directory.
+build
