@@ -5,10 +5,12 @@
   "main": "truffle-config.js",
   "dependencies": {},
   "devDependencies": {
+    "ethlint": "^1.2.4",
     "ganache-cli": "^6.4.1",
     "truffle": "^5.0.6"
   },
   "scripts": {
+    "lint": "solium -d contracts",
     "test": "truffle test",
     "ganache-cli": "ganache-cli",
     "truffle-develop": "truffle develop",
