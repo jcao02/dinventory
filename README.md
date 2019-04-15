@@ -7,6 +7,7 @@ Dinventory is a distributed app of an inventory. It uses ReactJS as front-end (s
 
 1. [User Stories](STORIES.md)
 2. [Development](#development)
+3. [Contracts](contracts/README.md)
 
 ## Development
 
