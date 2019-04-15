@@ -6,8 +6,10 @@
   "dependencies": {},
   "devDependencies": {
     "ethlint": "^1.2.4",
+    "faker": "^4.1.0",
     "ganache-cli": "^6.4.1",
-    "truffle": "^5.0.6"
+    "truffle": "^5.0.6",
+    "truffle-assertions": "^0.8.2"
   },
   "scripts": {
     "lint": "solium -d contracts",
