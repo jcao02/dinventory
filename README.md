@@ -1,6 +1,10 @@
 # Dinventory
 
-Dinventory is a distributed app of an inventory. It uses ReactJS as front-end (soon Android as well) and Solidity (Ethereum) in the backend.
+Dinventory is a distributed app of an inventory. This repository contains the backend written in Solidity smart contracts.
+
+The development stack uses:
+1. Ganache local blockchain
+2. Truffle to compile/test smart contracts
 
 
 ## Content
@@ -16,4 +20,4 @@ Dinventory is a distributed app of an inventory. It uses ReactJS as front-end (s
 
 ### Migrations
 1. Run `npm run ganache-cli` to start Ganache blockchain.
-2. Run `npm run truffle-migrate` to run the tests against Ganache.
+2. Run `npm run truffle-migrate` to run the migrations against Ganache.
