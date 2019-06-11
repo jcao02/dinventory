@@ -11,6 +11,7 @@ The development stack uses:
 
 1. [User Stories](STORIES.md)
 2. [Development](#development)
+3. [Contracts](contracts/README.md)
 
 ## Development
 
